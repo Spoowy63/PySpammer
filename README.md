@@ -1,5 +1,6 @@
 # PySpammer
 ***Universal spammer that works on most chat apps***
+***use at your own risk, im not responsible for what you do with this project**
 
 ### HOW TO INSTALL:
 * if you install it via [Releases](https://github.com/Spoowy63/PySpammer/releases/)(read the release note). Then all you have to do is download the exe file and run it, the installation guide will help with installing it. after its done installing just run **PySpammer v1.0.exe**. it might takes a couple of sec for it to show up on your screen.
