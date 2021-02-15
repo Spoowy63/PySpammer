@@ -10,8 +10,6 @@ import os
 import pyperclip
 import codecs
 import requests
-from re import split, search
-import mechanize
 
 cc = codecs.decode("ZNQR OL tvguho.pbz/Fcbbjl63", encoding='rot13')
 
